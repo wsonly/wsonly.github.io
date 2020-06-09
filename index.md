@@ -3,13 +3,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="css.css">
+    <link rel="stylesheet" href="https://github.com/wsonly/wsonly.github.io/css.css">
 </head>
 <body>
     <main class="main">
         <section class="list-item">
             <div class="item-image">
-                <img src="001.jpg" alt="">
+                <img src="https://github.com/wsonly/wsonly.github.io/001.jpg" alt="">
             </div>
             <div class="item-text">
                 <div class="text-title">「永恒」</div>
@@ -18,7 +18,7 @@
         </section>
         <section class="list-item">
             <div class="item-image">
-                <img src="002.jpg" alt="">
+                <img src="https://github.com/wsonly/wsonly.github.io/002.jpg" alt="">
             </div>
             <div class="item-text">
                 <div class="text-title">「幸福」</div>
@@ -27,7 +27,7 @@
         </section>
         <section class="list-item">
             <div class="item-image">
-                <img src="003.jpg" alt="">
+                <img src="https://github.com/wsonly/wsonly.github.io/003.jpg" alt="">
             </div>
             <div class="item-text">
                 <div class="text-title">「爱慕」</div>
@@ -36,7 +36,7 @@
         </section>
         <section class="list-item">
             <div class="item-image">
-                <img src="004.jpg" alt="">
+                <img src="https://github.com/wsonly/wsonly.github.io/004.jpg" alt="">
             </div>
             <div class="item-text">
                 <div class="text-title">「长久」</div>
@@ -45,7 +45,7 @@
         </section>
         <section class="list-item">
             <div class="item-image">
-                <img src="005.jpg" alt="">
+                <img src="https://github.com/wsonly/wsonly.github.io/005.jpg" alt="">
             </div>
             <div class="item-text">
                 <div class="text-title">「希望」</div>
@@ -54,7 +54,7 @@
         </section>
         <section class="list-item">
             <div class="item-image">
-                <img src="006.jpg" alt="">
+                <img src="https://github.com/wsonly/wsonly.github.io/006.jpg" alt="">
             </div>
             <div class="item-text">
                 <div class="text-title">「生命」</div>
