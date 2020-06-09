@@ -6,7 +6,7 @@
 </head>
 <body>
     <div class="head">
-        <a  href="06.html">第一天</a>
+        <a  href="first.html">第一天</a>
     </div>
     <main class="main">
         <section class="list-item">
