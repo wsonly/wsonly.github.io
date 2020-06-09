@@ -1,5 +1,6 @@
 #theme: jekyll-theme-minimal
-title: 王胜的个人博客 #网站标题
+
 subtitle: 好好学习，天天向上！ #网站副标题
 default_layout: post #默认布局
 theme: landscape # 当前使用的主题名
+title: 王胜的个人博客 #网站标题
