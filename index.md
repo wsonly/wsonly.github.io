@@ -2,14 +2,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
     <link rel="stylesheet" href="https://github.com/wsonly/wsonly.github.io/css.css">
 </head>
 <body>
     <main class="main">
         <section class="list-item">
             <div class="item-image">
-                <img src="https://github.com/wsonly/wsonly.github.io/001.jpg" alt="">
+                <img src="001.jpg" alt="">
             </div>
             <div class="item-text">
                 <div class="text-title">「永恒」</div>
