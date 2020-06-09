@@ -5,6 +5,9 @@
     <link rel="stylesheet" href="css.css">
 </head>
 <body>
+    <div class="head">
+        <a  href="first.html">第一天</a>
+    </div>
     <main class="main">
         <section class="list-item">
             <div class="item-image">
