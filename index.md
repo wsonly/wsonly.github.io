@@ -7,7 +7,7 @@
 <body>
     <div class="head">
         <a  href="first.html">第一天</a>
-        <a  href="css视差.html">用文件夹导入页面</a>
+        <a  href="视差/css视差.html">用文件夹导入页面</a>
     </div>
     <main class="main">
         <section class="list-item">
