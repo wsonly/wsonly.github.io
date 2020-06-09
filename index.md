@@ -17,7 +17,7 @@
         </section>
         <section class="list-item">
             <div class="item-image">
-                <img src="https://github.com/wsonly/wsonly.github.io/002.jpg" alt="">
+                <img src="002.jpg" alt="">
             </div>
             <div class="item-text">
                 <div class="text-title">「幸福」</div>
@@ -26,7 +26,7 @@
         </section>
         <section class="list-item">
             <div class="item-image">
-                <img src="https://github.com/wsonly/wsonly.github.io/003.jpg" alt="">
+                <img src="003.jpg" alt="">
             </div>
             <div class="item-text">
                 <div class="text-title">「爱慕」</div>
@@ -35,7 +35,7 @@
         </section>
         <section class="list-item">
             <div class="item-image">
-                <img src="https://github.com/wsonly/wsonly.github.io/004.jpg" alt="">
+                <img src="004.jpg" alt="">
             </div>
             <div class="item-text">
                 <div class="text-title">「长久」</div>
@@ -44,7 +44,7 @@
         </section>
         <section class="list-item">
             <div class="item-image">
-                <img src="https://github.com/wsonly/wsonly.github.io/005.jpg" alt="">
+                <img src="005.jpg" alt="">
             </div>
             <div class="item-text">
                 <div class="text-title">「希望」</div>
@@ -53,7 +53,7 @@
         </section>
         <section class="list-item">
             <div class="item-image">
-                <img src="https://github.com/wsonly/wsonly.github.io/006.jpg" alt="">
+                <img src="006.jpg" alt="">
             </div>
             <div class="item-text">
                 <div class="text-title">「生命」</div>
