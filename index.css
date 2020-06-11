@@ -3,16 +3,15 @@ html,body{
     margin: 0;
 }
 .main{
-    height: 100vh;/*vh代表视口高度*/
-    width:100vw;/*vw代表视口宽度*/
+    height: 1024px;/*vh代表视口高度*/
+    width:1920px;/*vw代表视口宽度*/
     background-image: url(background-image/01.jpg);
 }
 .menu{
     height: 40PX;
-    width: 100%;
 }
 .text{
-    height:600PX;
+    height:944PX;
     width: 100%;
 }
 .foot{
@@ -24,5 +23,5 @@ html,body{
     color: white;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    line-height:90vh;
+    line-height:944px;
 }
