@@ -8,15 +8,15 @@ html,body{
     background-image: url(background-image/01.jpg);
 }
 .menu{
-    height: 5vh;
+    height: 40PX;
     width: 100%;
 }
 .text{
-    height: 90vh;
+    height:600PX;
     width: 100%;
 }
 .foot{
-    height: 5vh;
+    height: 40PX;
     width: 100%;
 }
 .text{
