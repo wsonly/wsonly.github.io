@@ -25,3 +25,6 @@ html,body{
     text-align: center;
     line-height:944px;
 }
+.changeimage:hover{
+    background-color: darkgray;
+}
