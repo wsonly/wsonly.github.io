@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div id="main-id" class="main">
+        <div class="menu">这是菜单</div>
+        <div id="text-id" class="text">年年岁岁，平凡的轮回，犹如这美好的绿色。心在平静里，简单，真实，自在，空心。</div>
+        <div class="foot">
+           <button onclick="change1()">一</button>
+           <button onclick="change2()">二</button>
+           <button onclick="change3()">三</button>
+           <button onclick="change4()">四</button>
+           这是尾部</div>
+    </div>
+    <script>
+        function change1(){
+           var text = document.getElementById("text-id");
+           var image = document.getElementById("main-id");
+           text.innerHTML =  "年年岁岁，平凡的轮回，犹如这美好的绿色。心在平静里，简单，真实，自在，空心。";
+           //image.style.backgroundImage = URL"background-image/02.jpg";
+           image.style.backgroundImage = "URL('background-image/01.jpg')";
+        }
+        function change2(){
+           var text = document.getElementById("text-id");
+           var image = document.getElementById("main-id");
+           text.innerHTML =  "和自己相处，就是让我们静静坐下来，卸下负担，抚慰心灵，清楚自己身在何处、心往何方。";
+           image.style.backgroundImage = "URL('background-image/02.jpg')";
+        }
+        function change3(){
+           var text = document.getElementById("text-id");
+           var image = document.getElementById("main-id");
+           text.innerHTML =  "软弱的人被生活折磨，强悍的人折磨生活。";
+           image.style.backgroundImage = "URL('background-image/03.jpg')";
+        }
+        function change4(){
+           var text = document.getElementById("text-id");
+           var image = document.getElementById("main-id");
+           text.innerHTML =  "世上最有趣的人生，不是你降生在一个最有趣的世界，而是你找到一种最有趣的活法。";
+           image.style.backgroundImage = "URL('background-image/04.jpg')";
+        }
+    </script>
+</body>
+</html>
