@@ -5,13 +5,13 @@
 	var text5 = "年年岁岁，平凡的轮回，犹如这美好的绿色。心在平静里，简单，真实，自在，空心。";
 	
 	var text = document.getElementById("text-id");
-    var image = document.getElementById("main-id");
+    	var image = document.getElementById("main-id");
     
 	var btn1 =document.getElementById("btn1").addEventListener("mouseover",image1);
-    var btn2 =document.getElementById("btn2").addEventListener("mouseover",image2);
-    var btn3 =document.getElementById("btn3").addEventListener("mouseover",image3);
-    var btn4 =document.getElementById("btn4").addEventListener("mouseover",image4);
-    var btn5 =document.getElementById("btn5").addEventListener("mouseover",image5);
+    	var btn2 =document.getElementById("btn2").addEventListener("mouseover",image2);
+    	var btn3 =document.getElementById("btn3").addEventListener("mouseover",image3);
+    	var btn4 =document.getElementById("btn4").addEventListener("mouseover",image4);
+   	var btn5 =document.getElementById("btn5").addEventListener("mouseover",image5);
 	
    function image1(){
       text.innerHTML =  text1;
