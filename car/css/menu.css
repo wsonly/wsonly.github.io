@@ -1,0 +1,164 @@
+.wrap-menu{
+    width:1152px;
+    height:382px;
+    margin: 0 auto;
+    /*弹性盒子模型布局方式flex*/
+    display: flex;
+    /*background-color: blue;*/
+
+}
+.menu-left{
+    height: 382px;
+    width: 216px;
+    background-color:#111;
+    border-radius: 10px 0 0 10px;
+    display: flex;
+    /*列排列*/
+    flex-direction: column;
+    /**垂直居中*/
+    justify-content: center;
+    /*定位*/
+    position: relative;
+}
+.menu-right{
+    height: 382px;
+    width: 750px;
+    /*background-color: red;*/
+}
+#img-src{
+    height: 382px;
+    width: 750px;
+    border-radius: 0 10px 10px 0;/*设置图片圆角*/
+}
+/*侧边栏*/
+.menu-left-content{
+    height: 350px;
+    widows: 204px;
+    margin-left: 12px;
+}
+.menu-left-content-item{
+    height: 50px;
+
+}
+.menu-left-content-item>a{
+    /*内联元素变块元素*/
+    display: block;
+    height: 50px;
+    font-size: 15px;
+    padding-left: 16px;
+    color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
+    line-height: 50px;
+}
+.menu-left-content-item>a:hover{
+    display: block;
+    height: 50px;
+    font-size: 15px;
+    padding-left: 16px;
+    color: #ffffff;
+    background-color: rgba(255, 255, 255, 0.3);
+    text-decoration: none;
+    line-height: 50px;
+    border-radius: 5px 0 0 5px;
+}
+.menu01{
+    height: 382px;
+    width: 750px;/*菜单展示的大小*/
+    background-color:rgb(255, 255, 255,0.3); 
+    position: absolute;
+    top: 0;
+    left: 216px;
+    display: none;
+	border-radius: 0 10px 10px 0;
+}
+.menu02{
+    height: 382px;
+    width: 750px;/*菜单展示的大小*/
+    background-color:rgb(255, 255, 255,0.3); 
+    position: absolute;
+    top: 0;
+    left: 216px;
+    display: none;
+	border-radius: 0 10px 10px 0;
+}
+.menu03{
+    height: 382px;
+    width: 750px;/*菜单展示的大小*/
+    background-color:rgb(255, 255, 255,0.3); 
+    position: absolute;
+    top: 0;
+    left: 216px;
+    display: none;
+	border-radius: 0 10px 10px 0;
+}
+.menu04{
+    height: 382px;
+    width: 750px;/*菜单展示的大小*/
+    background-color:rgb(255, 255, 255,0.3); 
+    position: absolute;
+    top: 0;
+    left: 216px;
+    display: none;
+	border-radius: 0 10px 10px 0;
+}
+.menu05{
+    height: 382px;
+    width: 750px;/*菜单展示的大小*/
+    background-color:rgb(255, 255, 255,0.3); 
+    position: absolute;
+    top: 0;
+    left: 216px;
+    display: none;
+	border-radius: 0 10px 10px 0;
+}
+.menu06{
+    height: 382px;
+    width: 750px;/*菜单展示的大小*/
+    background-color:rgb(255, 255, 255,0.3); 
+    position: absolute;
+    top: 0;
+    left: 216px;
+    display: none;
+	border-radius: 0 10px 10px 0;
+}
+.menu07{
+    height: 382px;
+    width: 750px;/*菜单展示的大小*/
+    background-color:rgb(255, 255, 255,0.3); 
+    position: absolute;
+    top: 0;
+    left: 216px;
+    display: none;
+	border-radius: 0 10px 10px 0;
+}
+.menu-content-subject-list{
+    margin-left: 20px;
+}
+.menu-content-subject-list>h5{
+    font-size: 20px;
+    font-family: KaiTi;
+	color:	#F0E2DE;
+}
+.menu-content-subject-list>ul{
+    list-style: none;
+    padding: 0;
+}
+.menu-content-subject-list>ul>li{
+    margin-top: 15px;
+    display: inline-block
+    
+}
+.menu-content-subject-list>ul>li>a{
+    text-decoration: none;
+    font-size: 24px;
+    color: black;
+    padding-right: 10px;
+    font-family: KaiTi;
+}
+.menu-content-subject-list>ul>li>a:hover{
+    text-decoration: none;
+	background-color:rgba(0, 0, 0, 0.2);
+    font-size: 25px;
+    color:rgba(216, 25, 25, 1);
+    padding-right:7px;
+}
